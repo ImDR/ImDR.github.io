@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/css/styles.css"],"names":[],"mappings":"AAAA,KACE,SAAU,CACV,QACF,CAEA,IACE,cACF","file":"main.c47473c3.chunk.css","sourcesContent":["body{\n  padding: 0;\n  margin: 0;\n}\n\nimg {\n  max-width: 100%;\n}"]}
